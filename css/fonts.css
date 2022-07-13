@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'iranYekan';
+    font-weight: 400;
+    font-synthesis: normal;
+    src: url('../assets/fonts/IRANYekanRegular.woff') format("woff");
+}
+@font-face{
+    font-family: 'iranYekan';
+    font-weight: 700;
+    font-synthesis: normal;
+    src: url('../assets/fonts/IRANYekanBold.woff') format("woff");
+}
+
+body,
+button{
+    font-family: "iranYekan";
+}
